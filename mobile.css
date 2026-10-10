@@ -1,6 +1,9 @@
 @media (max-width: 600px){
     .products {
         grid-template-columns: auto auto;
+        div{
+            width: 250px;
+        }
     }
 
     .container {
